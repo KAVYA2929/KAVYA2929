@@ -51,6 +51,17 @@ Git • GitHub • VS Code • Docker
 * Integrated intelligent recommendation features
 
 ---
+### 🧪 Polarization Virtual Lab (Quantum Hack)
+
+🔗 Live Demo: https://polarizationvirtuallab.streamlit.app/
+
+* Developed an interactive virtual lab to simulate polarization concepts in physics
+* Built using Python and Streamlit for real-time visualization
+* Enabled users to explore optical behavior through dynamic simulations
+* Designed intuitive UI for educational and research understanding
+* 🚀 Built during Quantum Hack
+
+---
 
 ### 🛒 E-Commerce Platform (Coming Soon)
 
