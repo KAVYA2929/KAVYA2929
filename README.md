@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kavya Agrawal
 
-### 🚀 Full Stack Developer | Web Developer | Data Science Enthusiast
+### 🚀 Full Stack Developer |  Data Science Enthusiast
 
 ---
 
